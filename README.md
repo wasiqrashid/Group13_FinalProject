@@ -2,10 +2,10 @@
 Brain Tumor Detection and  Sizing in MRI Scans
 
 Brain tumors are a common global issue with thepotential to cause problems such as headaches, seizures, and cancer.
-MRI scans are the most common modality for diagnosis currently. However, they have some major limitations
-An automated system may be quicker and more accurate than a traditional MRI scan
-Our Program uses image processing techniques to determine the presence, location, and size of a tumor from a brain MRI scan
-This can aid in future development of categorizing tumors as benign or malignant
+MRI scans are the most common modality for diagnosis currently. However, they have some major limitations.
+An automated system may be quicker and more accurate than a traditional MRI scan.
+Our Program uses image processing techniques to determine the presence, location, and size of a tumor from a brain MRI scan.
+This can aid in future development of categorizing tumors as benign or malignant.
 
 
 
@@ -22,11 +22,15 @@ Instructions:
 
 The image is classified by the following metric:
 
-No tumor: 0-5% of brain area
-Small tumor: 5-10% of brain area
-Developing tumor: 10-20% of brain area
-Developed tumor: 20-30% of brain area
-Massive tumor: >30% of brain area
+No tumor: 0-5% of brain area.
+
+Small tumor: 5-10% of brain area.
+
+Developing tumor: 10-20% of brain area.
+
+Developed tumor: 20-30% of brain area.
+
+Massive tumor: >30% of brain area.
 
 
 
