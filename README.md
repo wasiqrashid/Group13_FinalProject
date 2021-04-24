@@ -13,8 +13,8 @@ Instructions:
 
 - Extract the Group13_Data.zip file, revealing two folders (tumor_images and no_tumor_images)
 - Take all .jpg files from those folders and place them in a separate folder
-- Place final_tumor_finder_and_classifier.m into the same folder as the .jpg files, and set this as the working folder in MATLAB
-- Run final_tumor_finder_and_classifier.m in MATLAB
+- Place bme3053c_final_project_code.m into the same folder as the .jpg files, and set this as the working folder in MATLAB
+- Run bme3053c_final_project_code.m in MATLAB
 - For every input, "x.jpg", there will be an output, "Result x.jpg", saved to the same folder
 - The "Result x.jpg" file will provide image analysis results, as well as a final output with the brain tumor highlighted and classification/size listed
 
