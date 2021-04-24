@@ -1,7 +1,7 @@
 # Group13_FinalProject
 Brain Tumor Detection and  Sizing in MRI Scans
 
-Brain tumors are a common global issue with thepotential to cause problems such as headaches, seizures, and cancer.
+Brain tumors are a common global issue with the potential to cause problems such as headaches, seizures, and cancer.
 MRI scans are the most common modality for diagnosis currently. However, they have some major limitations.
 An automated system may be quicker and more accurate than a traditional MRI scan.
 Our Program uses image processing techniques to determine the presence, location, and size of a tumor from a brain MRI scan.
